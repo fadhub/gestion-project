@@ -27,14 +27,14 @@ Ce README contient la planification complète et corrigée du projet, basée sur
 
 | Semaine | Période | Activité / Jalon Stratégique | Statut | Jours Ouvrés |
 |:---:|:---|:---|:---:|:---:|
-| **S01** | 06.04 – 10.04 | **Sprint 1 : Partie Public (Phase 1)** | 🔵 En cours | 5 |
+| **S01** | 06.04 – 10.04 | **Sprint 1 : Partie Public (Phase 1)** |  En cours | 5 |
 | **S02** | 13.04 – 17.04 | **Pause Académique** (IT-wave) | Vacances | — |
-| **S03** | 20.04 – 24.04 | **Sprint 1 : Partie Admin (Phase 2)** → Finalisation | ⏳ À venir | 5 |
-| **S04** | 27.04 – 01.05 | **Déploiement & Installation** | ⏳ À venir | 5 |
+| **S03** | 20.04 – 24.04 | **Sprint 1 : Partie Admin (Phase 2)** → Finalisation |  À venir | 5 |
+| **S04** | 27.04 – 01.05 | **Déploiement & Installation** |  À venir | 5 |
 | **S05** | 04.05 – 08.05 | **Vacances Scolaires** |  Vacances | — |
-| **S06** | 11.05 – 15.05 | **Sprint 2 : Fonctions Avancées** | ⏳ À venir | 5 |
-| **S07** | 18.05 – 22.05 | **Infrastructure & Réseau** | ⏳ À venir | 5 |
-| **S08** | 25.05 – 29.05 | **Veille Technologique & Documentaire** | ⏳ À venir | 5 |
+| **S06** | 11.05 – 15.05 | **Sprint 2 : Fonctions Avancées** |  À venir | 5 |
+| **S07** | 18.05 – 22.05 | **Infrastructure & Réseau** |  À venir | 5 |
+| **S08** | 25.05 – 29.05 | **Veille Technologique & Documentaire** |  À venir | 5 |
 
 ---
 
