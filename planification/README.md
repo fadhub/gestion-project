@@ -11,15 +11,6 @@
 
 Ce README contient la planification complète et corrigée du projet, basée sur toutes les clarifications apportées.
 
----
-## 📈 Indicateurs Clés du Projet
-
-| Indicateur | Valeur |
-|---|---|
-| Durée totale du calendrier | 54 jours (6 avr. → 29 mai) |
-| Nombre total de jours ouvrés | 35 jours |
-| Jours de congés / vacances | 10 jours |
-| Responsable du développement | FADNA LAKHOUCHEN |
 
 ---
 
